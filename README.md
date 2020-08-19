@@ -1,3 +1,9 @@
+## App description
+
+This is simple notes&videos adding app. Inspired by eduweb.pl courses.
+Everything is written wth ReactJS, styled (erratic) with SCSS and styled-components.
+The inconsistency came from the fact that when styling components somehow styled-components, I came to the conclusion that it will be much easier for me to style through SCSS modules.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
