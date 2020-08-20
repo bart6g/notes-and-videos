@@ -5,7 +5,7 @@ import styles from "./notes.module.scss";
 const Notes = ({ actualNotes, setNotes }) => {
   const showNotes = actualNotes.map((note) => (
     <Note
-      id={note.id}
+      key={note.title}
       name={note.name}
       surname={note.surname}
       desc={note.desc}

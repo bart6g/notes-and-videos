@@ -68,14 +68,14 @@ const initialVideos = [
     name: "Adam",
     surname: "Kowalski",
     title: "My second video",
-    link: "link1",
+    link: "https://www.youtube.com/embed/bvmEYgFsgyg",
   },
   {
     id: 2,
     name: "Paweł",
     surname: "Klski",
     title: "My first video",
-    link: "link1",
+    link: "https://www.youtube.com/embed/bvmEYgFsgyg",
   },
 ];
 
